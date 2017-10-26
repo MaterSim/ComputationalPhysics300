@@ -18,9 +18,9 @@
 |6     |X-ray diffraction|
 |7     |Random numbers|
 |8     |Monte Carlo|
-|9     |Optmization I (steep Desent, conjungated gradient)|
-|10     |Optmization II (evolutinary algorithm, particle swarm optimization)|
-|11    |Molecular Dynamics (simulation)|
+|9     |Optmization I|
+|10    |Optmization II|
+|11    |Molecular Dynamics|
 |12    |Machine Learning I (regression, clustering)|
 |13    | Machine Learning II (applications)|
 |14    |Machine Learning III (database)|
