@@ -16,11 +16,11 @@
 |4     |Fitting/interpolation|
 |5     |Fourier transform|
 |6     |X-ray diffraction|
-|7     |Monte Carlo|
-|8     |Optmization I (steep Desent, conjungated gradient)|
-|9     |Optmization II (evolutinary algorithm, particle swarm optimization)|
-|10    |Molecular Dynamics I (simulation)|
-|11    |Molecular Dynamics II (post-analysis)|
+|7     |Random numbers|
+|8     |Monte Carlo|
+|9     |Optmization I (steep Desent, conjungated gradient)|
+|10     |Optmization II (evolutinary algorithm, particle swarm optimization)|
+|11    |Molecular Dynamics (simulation)|
 |12    |Machine Learning I (regression, clustering)|
 |13    | Machine Learning II (applications)|
 |14    |Machine Learning III (database)|
