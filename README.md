@@ -12,7 +12,7 @@
 |------|:--------:|
 |1     |Python basics I (installation, variables, list, loops)|
 |2     |Python basics II (function, advanced libraries)|
-|3     |Integrals/dervitives|
+|3     |Integrals/derivatives|
 |4     |Fitting/interpolation|
 |5     |Fourier transform|
 |6     |X-ray diffraction|
@@ -20,7 +20,7 @@
 |8     |Monte Carlo|
 |9     |Optmization I|
 |10    |Optmization II|
-|11    |Molecular Dynamics|
+|11    |Optmization III|
 |12    |Machine Learning I (regression, clustering)|
 |13    | Machine Learning II (applications)|
 |14    |Machine Learning III (database)|
