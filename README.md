@@ -1,6 +1,7 @@
-# 2018-cmp (Physics 300) 
+# Physics 300, Fall 2018 
 ## Introduction to Physics and Scientific Computing 
-## (Fall 2018), BPB-248, Tues/Thurs 10:00 - 11:15 am
+## Location: BPB-248
+## Schedule: Tues/Thurs 10:00 - 11:15 am
 |Instructor| Prof. Qiang Zhu|
 |--|-------------------------------|
 |Email | qiang.zhu@unlv.edu|
@@ -16,9 +17,9 @@
 |3     |Integrals/derivatives|
 |4     |Fitting/interpolation|
 |5     |Fourier transform|
-|6     |X-ray diffraction|
-|7     |Random numbers|
-|8     |Monte Carlo|
+|6     |Random numbers|
+|7     |Monte carlo|
+|8     |X-ray diffraction and object oriented programming|
 |9     |Optmization I|
 |10    |Optmization II|
 |11    |Optmization III|
