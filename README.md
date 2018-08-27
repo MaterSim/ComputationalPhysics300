@@ -7,7 +7,7 @@
 |Email | qiang.zhu@unlv.edu|
 |Website|http://www.physics.unlv.edu/~qzhu/|
 |Office| BPB 232|",
-|Office hours | Mon/Weds 12:30 - 2:30 pm|
+|Office hours | Mon/Weds 3:45 - 5:00 pm|
     
 ## Course Outline
 |Weeks | Subjects|
@@ -19,13 +19,14 @@
 |5     |Fourier transform|
 |6     |Random numbers|
 |7     |Monte carlo|
-|8     |X-ray diffraction and object oriented programming|
-|9     |Optmization I|
-|10    |Optmization II|
-|11    |Optmization III|
-|12    |Machine Learning I (regression, clustering)|
-|13    |Machine Learning II (applications)|
-|14    |Machine Learning III (database)|
+#|8     |X-ray diffraction and object oriented programming|
+|8     |Optmization I|
+|9    |Optmization II|
+|10    |Optmization III|
+|11    |Machine Learning I (algorithms)|
+|12    |Machine Learning II (applications)|
+|13    |Machine Learning III (database tools)|
+|13    |Machine Learning IV (online database)|
     
 ## Prerequisites: PHYS 152, PHYS 152L or PHYS 180
 ## Credit Hours: 3
