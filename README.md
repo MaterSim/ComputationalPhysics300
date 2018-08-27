@@ -19,7 +19,7 @@
 |5     |Fourier transform|
 |6     |Random numbers|
 |7     |Monte carlo|
-#|8     |X-ray diffraction and object oriented programming|
+/*#|8     |X-ray diffraction and object oriented programming|*/
 |8     |Optmization I|
 |9    |Optmization II|
 |10    |Optmization III|
