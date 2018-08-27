@@ -19,14 +19,13 @@
 |5     |Fourier transform|
 |6     |Random numbers|
 |7     |Monte carlo|
-/*#|8     |X-ray diffraction and object oriented programming|*/
 |8     |Optmization I|
-|9    |Optmization II|
+|9     |Optmization II|
 |10    |Optmization III|
 |11    |Machine Learning I (algorithms)|
 |12    |Machine Learning II (applications)|
 |13    |Machine Learning III (database tools)|
-|13    |Machine Learning IV (online database)|
+|14    |Machine Learning IV (online database)|
     
 ## Prerequisites: PHYS 152, PHYS 152L or PHYS 180
 ## Credit Hours: 3
