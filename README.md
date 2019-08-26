@@ -1,4 +1,4 @@
-# Physics 300, Fall 2018 
+# Physics 300, Fall 2019 
 ## Introduction to Physics and Scientific Computing 
 ## Location: BPB-248
 ## Schedule: Mon/Weds 2:30 - 3:45 pm
@@ -7,7 +7,7 @@
 |Email | qiang.zhu@unlv.edu|
 |Website|http://www.physics.unlv.edu/~qzhu/|
 |Office| BPB 232|",
-|Office hours | Mon/Weds 3:45 - 5:00 pm|
+|Office hours | Mon/Weds 9 - 10 am|
     
 ## Course Outline
 |Weeks | Subjects|
