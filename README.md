@@ -43,3 +43,6 @@ This course is open to all students who are interested in scientific programming
 
 ## Appendix
 In addtion to the code page, we also have a [wiki page](https://github.com/qzhu2017/2017-cmp/wiki) which has extended discussions on some focused topics. Most of them were created by the students.
+
+## notebook viewer
+Sometimes the GitHub does not render the jupyter notebook properly. We recommend the use of [nbviewer](https://nbviewer.jupyter.org/) to view the notebook.
