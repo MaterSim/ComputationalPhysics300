@@ -44,5 +44,11 @@ This course is open to all students who are interested in scientific programming
 ## Appendix
 In addtion to the code page, we also have a [wiki page](https://github.com/qzhu2017/2017-cmp/wiki) which has extended discussions on some focused topics. Most of them were created by the students.
 
-## notebook viewer
+## Notebook viewer
 Sometimes the GitHub does not render the jupyter notebook properly. We recommend the use of [nbviewer](https://nbviewer.jupyter.org/) to view the notebook.
+
+## Instruction to submit your homework.
+- register an account in GitHub.
+- log into your github profile, and search for the github repo of qzhu2017/ComputationalPhysics300/, click the fork icon.
+- after your log into your github account, you will have the forked github repo.
+- complete homework by your own in the format of jupiter notebook. Upload the notebook to the homework directory by time.
