@@ -22,6 +22,7 @@ Write a wiki page to introduce different approaches to compute the derivative an
 - Finite difference
 - Complex step
 - Cauchy integral formula
+One can find the references from the [wikipedia page](https://en.wikipedia.org/wiki/Numerical_differentiation)
 
 ## Project 4, B-spline Interpolation
 [Lec07](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/Lec_07_interpolation.ipynb)
