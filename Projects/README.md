@@ -8,9 +8,12 @@ Write an python code to provide an interactive interface to simulate the propaga
 - start buttion to initiate the animation of the wave propogation
 - 2D/3D visulatization of the propagation.
 
+![video](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/videos/wave_propogation.mp4)
+
 ## Project 2, Mandelbrot set
 [Lec04](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/Lec_04_Python_intro_IV.ipynb)
 Write a wiki page to introduce Mandelbrot set and its application to some specific domain.
+![plot](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/img/mandelbrot_set.png)
 
 ## Project 3, Gaussian Quardrature 
 [Lec05](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/Lec_05_integral.ipynb)
