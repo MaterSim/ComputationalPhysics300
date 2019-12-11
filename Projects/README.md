@@ -75,3 +75,7 @@ By choosing one of the following methods:
 - Gaussian Process
 
 Compare the results with sklearn.
+
+
+![plot](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/img/nn.gif)
+
