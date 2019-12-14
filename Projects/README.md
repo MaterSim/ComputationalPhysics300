@@ -12,7 +12,8 @@ Write an python code to provide an interactive interface to simulate the propaga
 
 ## Project 2, Mandelbrot set
 [Lec04](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/Lec_04_Python_intro_IV.ipynb)
-Write a wiki page to introduce Mandelbrot set and its application to some specific domain.
+Write a code to show the dynamical behavior of each point in the entire complex plane and introduce the property of [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set) and [Julia set](https://en.wikipedia.org/wiki/Julia_set).
+
 ![plot](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/img/mandelbrot_set.png)
 
 ## Project 3, Gaussian Quardrature 
