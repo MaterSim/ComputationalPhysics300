@@ -1,4 +1,4 @@
-# Physics 300, Fall 2019 
+# Physics 300, University of Nevada Las Vegas
 ## Introduction to Physics and Scientific Computing 
 ## Location: BPB-248
 ## Schedule: Mon/Weds 2:30 - 3:45 pm
