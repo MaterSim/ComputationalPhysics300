@@ -2,13 +2,15 @@ Here is the list of projects.
 
 ## Project 1, Animation of Wave propagation
 [Lec04](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/Lec_04_Python_intro_IV.ipynb)
-Write an python code to provide an interactive interface to simulate the propagation of waves due to the dropped pebbles in a pool. This interface should allow the user to do the following
+Write an python code to provide an interactive interface to simulate the propogation of waves due to the dropped pebbles in a pool. This interface should allow the user to do the following
+- `drop pebble` button to set up the position of the first pebble
+- `start` buttion to initiate the animation of the wave propogation
+- `drop pebble` button to pause the animation and set up the position of the second pebble
+- `continue` button to continue to model the wave proprogations due to two pebbles
+- `terminate` button to terminate this simulation
 
-- drop pebble button to set up the positions of multiples pebbles
-- start buttion to initiate the animation of the wave propogation
-- 2D/3D visulatization of the propagation.
-
-![video](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/videos/wave_propogation.mp4)
+One can refer to the [bokeh](https://bokeh.pydata.org/en/latest/docs/gallery.html) and [K3D](https://github.com/K3D-tools/K3D-jupyter) for the hints to realize these functions.
+![video](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/videos/wave_propogation.gif)
 
 ## Project 2, Mandelbrot set
 [Lec04](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/Lec_04_Python_intro_IV.ipynb)
