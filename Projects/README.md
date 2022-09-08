@@ -10,7 +10,7 @@ Write an python code to provide an interactive interface to simulate the propoga
 - `terminate` button to terminate this simulation
 
 One can refer to the [bokeh](https://bokeh.pydata.org/en/latest/docs/gallery.html) and [K3D](https://github.com/K3D-tools/K3D-jupyter) for the hints to realize these functions.
-![video](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/videos/wave_propogation.gif)
+<img src="https://github.com/qzhu2017/ComputationalPhysics300/blob/master/videos/wave_propogation.gif" width="600" height="550" />
 
 ## Project 2, Mandelbrot set
 [Lec04](https://github.com/qzhu2017/ComputationalPhysics300/blob/master/Lec_04_Python_intro_IV.ipynb)
